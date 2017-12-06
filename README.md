@@ -3,7 +3,7 @@
 * C/C++
 * Platform Cocos2d-X
 # TYPE
-* Game(can build into android,destop,ios)
+* Game(can run on android,destop,ios)
 # TEAM
 * Be Tap Lam Game
 # Event 
