@@ -1,4 +1,10 @@
-# CodeYourLife
-#Language Programming : C/C++
-#Made with Cocos2d-x
-#Code by Be Tap Lam Game Team
+# INTRODUCTION
+# LANGUAGE PROGRAMMING
+* C/C++
+* Platform Cocos2d-X
+# TYPE
+* Game(can build into android,destop,ios)
+# TEAM
+* Be Tap Lam Game
+# Event 
+* Game UIT Hackathon 2017
