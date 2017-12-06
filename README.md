@@ -1,4 +1,4 @@
-## INTRODUCTION
+# INTRODUCTION
 # LANGUAGE PROGRAMMING
 * C/C++
 * Platform Cocos2d-X
@@ -7,4 +7,4 @@
 # TEAM
 * Be Tap Lam Game
 # Event 
-* Game UIT HackaThon
+* Game UIT Hackathon 2017
