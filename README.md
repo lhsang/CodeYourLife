@@ -1,10 +1,10 @@
 # INTRODUCTION
-# LANGUAGE PROGRAMMING
+## PROGRAMMING LANGUAGE
 * C/C++
 * Platform Cocos2d-X
-# TYPE
+## TYPE
 * Game(can run on android,destop,ios)
-# TEAM
+## TEAM
 * Be Tap Lam Game
-# Event 
+## Event 
 * Game UIT Hackathon 2017
